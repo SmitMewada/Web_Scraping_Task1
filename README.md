@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is a web scraping project that retrieves data from Medium and extracts valuable information for [purpose or use case]. It uses Python and Beautiful Soup for web scraping and data parsing.
+This is a web scraping project that retrieves data from Medium. It uses Python and Beautiful Soup for web scraping and data parsing.
 
 ## Project Description
 
